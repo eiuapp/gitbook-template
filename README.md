@@ -4,12 +4,12 @@
 
 - GitHub地址：https://github.com/eiuapp/ceph-handbook
 
-- 在线访问地址：https://eiu.app/ceph-handbook
+- 在线访问地址：https://eiuapp.github.io/ceph-handbook
 
 ceph是著名的存储系统。
 
 
-下图是ceph生态圈图：
+<!-- 下图是ceph生态圈图： -->
 
 <!-- https://docs.openstack.org/swift/queens/associated_projects.html -->
 
